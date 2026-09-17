@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup
 
 setup(
-    name="BPCL",
+    name="bpcl",
     version="0.1.0",
-    packages=find_packages(),  # Automatically finds the 'BPCL' folder
+    packages=find_packages(),  # Tells setuptools to locate the BPCL folder
 )
